@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**Catalan-Nick/Catalan-Nick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### 
 New to the web development field but I am highly driven. I have found my passion in creating and implementing sites. By mixing traditional classroom learning and self-taught course work, I’ve quickly acquired a wide array of knowledge and going forward I’m willing to learn any new skill I need.
 
 - 🔭 I’m currently working on ...
