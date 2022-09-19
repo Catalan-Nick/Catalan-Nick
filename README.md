@@ -10,9 +10,9 @@ There'll be an organized list of my projects here in 3 categories: simple, inter
 
 ## Simple
 Using no frameworks, these websites are made with only HTML, CSS, and Javascript
--Clocks: A website for telling time, with two sliding buttons for changing mode and format.
+- Clocks: A website for telling time, with two sliding buttons for changing mode and format.
 
 ## Intermediate
 Programs with a greater amount of code, serveral of them showcase the use of different frameworks.
--Tunic: A Bootstrap framed responsive website, featuring a shifting text box, carosel of images with controls, sliding sections with pop-up modules.
+- Tunic: A Bootstrap framed responsive website, featuring a shifting text box, carosel of images with controls, sliding sections with pop-up modules.
 
