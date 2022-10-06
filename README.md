@@ -18,3 +18,6 @@ Programs with a greater amount of code, serveral of them showcase the use of dif
 - Movie_Browser: React website for seaching movies. API integration with [The Movie DataBase](https://www.themoviedb.org/?language=en-US) 
 - R.A.P.I.D.: Serverless functions written in Javascript. A responsive Pokedex-like user interface, but the Main purpose of it is to showcase serverless functions. API integration with [PokeAPI](https://pokeapi.co)
 
+## Capstones
+Programes with several files, built with framework and integrataions, often with a backend component.
+- Social Media - Django: A social media like platform that has the capibilities to save profiles, posts, followers etc.
