@@ -11,6 +11,8 @@ There'll be an organized list of my projects here in 3 categories: simple, inter
 ## Simple
 Using no frameworks, these websites are made with only HTML, CSS, and Javascript
 - Clocks: A website for telling time, with two sliding buttons for changing mode and format.
+- JS-Star-Wars-Randomizer: A Star Wars film randomizer that displays the synopis and post for each film.
+- Python-Pokemon-API: Text based UI for searching pokemon information
 
 ## Intermediate
 Programs with a greater amount of code, serveral of them showcase the use of different frameworks.
