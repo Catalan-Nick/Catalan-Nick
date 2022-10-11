@@ -18,7 +18,7 @@ Using no frameworks, these websites are made with only HTML, CSS, and Javascript
 Programs with a greater amount of code, serveral of them showcase the use of different frameworks.
 - Tunic: A Bootstrap framed responsive website, featuring a shifting text box, carosel of images with controls, sliding sections with pop-up modules.
 - Movie_Browser: React website for seaching movies. API integration with [The Movie DataBase](https://www.themoviedb.org/?language=en-US) 
-- R.A.P.I.D.: Serverless functions written in Javascript. A responsive Pokedex-like user interface, but the Main purpose of it is to showcase serverless functions. API integration with [PokeAPI](https://pokeapi.co)
+- Serverless-functions: written in Javascript. A responsive Pokedex-like user interface, but the Main purpose of it is to showcase serverless functions. API integration with [PokeAPI](https://pokeapi.co)
 
 ## Capstones
 Programes with several files, built with framework and integrataions, often with a backend component.
