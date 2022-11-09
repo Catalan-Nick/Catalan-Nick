@@ -16,7 +16,7 @@ Using no frameworks, these websites are made with only HTML, CSS, and Javascript
 
 ## Intermediate
 Programs with a greater amount of code, serveral of them showcase the use of different frameworks.
-- Tunic: A Bootstrap framed responsive website, featuring a shifting text box, carosel of images with controls, sliding sections with pop-up modules.
+- Tunic: A Bootstrap framed responsive website, featuring a shifting text box, Carousel of images with controls, sliding sections with pop-up modules.
 - Movie_Browser: React website for seaching movies. API integration with [The Movie DataBase](https://www.themoviedb.org/?language=en-US) 
 - Serverless-functions: written in Javascript. A responsive Pokedex-like user interface, but the Main purpose of it is to showcase serverless functions. API integration with [PokeAPI](https://pokeapi.co)
 
